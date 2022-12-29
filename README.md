@@ -5,16 +5,16 @@ In this repository, you will find the [official Capital Audience Targeting publi
 | **Feedback Category** | **Documentation** 	|
 |---	|---	|
 | 📣  [Announcements](https://github.com/merchantprotocol/capital-audience-support/discussions/categories/announcements) |  |
-| 🗣️  [Open Discussion Forum](https://github.com/merchantprotocol/capital-audience-support/discussions/categories/discussions)  	|  	|
-| 🙏  [User Guide Q&A](https://github.com/merchantprotocol/capital-audience-support/discussions/categories/user-guide-q-a) |  |
+| 🗣️  [Open Discussion Forum](https://github.com/merchantprotocol/capital-audience-support/discussions/categories/open-discussion-forum)  	|  	|
+| 🙏  [User Guide Q&A](https://github.com/merchantprotocol/capital-audience-support/discussions/categories/q-a) |  |
 
 These discussions are where you can share suggestions for how the products should be improved and discuss those improvements with the community, including members of the Capital Audience development team. Check out [Making suggestions](#making-suggestions) to learn how to provide feedback.
 
-This repository works in conjunction with the [Capital Audience public roadmaps](https://github.com/merchantprotocol/capital-audience-support/projects?type=beta), which is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Discussion categories have been established for specific features listed above, as well as a general category for other topics. Additional categories may be added in the future. In the meantime, topics outside of the listed categories above, will be transferred into the general category. Please review the [CODE OF CONDUCT](CODE_OF_CONDUCT.md) before participating in discussions.
+This repository works in conjunction with the [Capital Audience public roadmaps](https://github.com/merchantprotocol/capital-audience-support/projects), which is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Discussion categories have been established for specific features listed above, as well as a general category for other topics. Additional categories may be added in the future. In the meantime, topics outside of the listed categories above, will be transferred into the general category. Please review the [CODE OF CONDUCT](CODE_OF_CONDUCT.md) before participating in discussions.
 
 ## Making suggestions
 
-We encourage you to [open a discussion](https://github.com/merchantprotocol/capital-audience-support/discussions/) if you have suggestions for how we can improve our products. You don't need to have a solution to the problem you are facing to kick off a discussion. We are hoping to foster productive and collaborative conversations, so please check out [how to give good feedback](https://github.com/merchantprotocol/capital-audience-support/discussions/3) if you want some guidance on how to kick off a successful discussion.
+We encourage you to [open a discussion](https://github.com/merchantprotocol/capital-audience-support/discussions/) if you have suggestions for how we can improve our products. You don't need to have a solution to the problem you are facing to kick off a discussion. We are hoping to foster productive and collaborative conversations, so please check out [how to give good feedback](https://github.com/merchantprotocol/capital-audience-support/discussions/4) if you want some guidance on how to kick off a successful discussion.
 
 Prior to making a new discussion, please take a look at previous discussions to see if someone else has already brought to our attention your suggestions. If you find a similar discussion, reply with additional details or upvote the discussion to signal your support rather than creating a new discussion.
 
@@ -22,12 +22,12 @@ Prior to making a new discussion, please take a look at previous discussions to 
 
 Once you kick off a discussion, the Capital Audience development team will evaluate the feedback but will not be able to respond to every submission. From there, we will work with you, and the entire community, to ensure we understand the current capabilities Capital Audience software doesn’t have and explore the space for potential solutions to your problem statement:
 
-- If the dev team determines that we are going to prioritize a feature to solve the problem you've identified, we may open an issue and track its development in the [public roadmaps](https://github.com/merchantprotocol/capital-audience-support/projects?type=beta).
+- If the dev team determines that we are going to prioritize a feature to solve the problem you've identified, we may open an issue and track its development in the [public roadmaps](https://github.com/merchantprotocol/capital-audience-support/projects).
 - If the dev team determines that we will not be working to solve the problem you have identified, we may comment on the discussion describing our reasoning so our decisions can remain transparent.
 
 # The Capital Audience public roadmaps
 
-:sparkle: View the [official Capital Audience public product roadmaps](https://github.com/merchantprotocol/capital-audience-support/projects?type=beta)[^1]
+:sparkle: View the [official Capital Audience public product roadmaps](https://github.com/merchantprotocol/capital-audience-support/projects)[^1]
 
 Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Share your feedback via [The Capital Audience public feedback discussions](https://github.com/merchantprotocol/capital-audience-support/discussions). 
 
